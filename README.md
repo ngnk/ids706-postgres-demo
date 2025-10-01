@@ -53,4 +53,4 @@ FROM restaurants
 GROUP BY cuisine
 ORDER BY number_of_restaurants DESC;
 ```
-
+![Query 6](query6.png)
